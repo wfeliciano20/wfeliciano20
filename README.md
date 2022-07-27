@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm William
+
+- 🔭 I’m currently working on improving my fullstack skills
+- 🌱 I’m currently learning full-stack development with https://fullstackopen.com/en/about 
+- 👯 I’m looking to collaborate on fullstack projects
+- 🤔 I’m looking for help with typescript
+- 💬 Ask me about Javascript, React, ReduxToolkit, Node and Express
+- 📫 How to reach me: Dm in twitter @wifelicianorios
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy helping people learn and tackle development. Also enjoy playing games. 
 
 <!--
 **wfeliciano20/wfeliciano20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
