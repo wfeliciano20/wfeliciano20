@@ -1,7 +1,7 @@
-### Hi there 👋 I'm William
+### Hi there 👋 I'm William, Ive been coding since 2011 but I'm currently more interested in Web dev
 
 - 🔭 I’m currently working on improving my fullstack skills
-- 🌱 I’m currently learning full-stack development with https://fullstackopen.com/en/about 
+- 🌱 I’m currently learning full-stack development with https://fullstackopen.com/en/about and https://appacademy.io/course/app-academy-open
 - 👯 I’m looking to collaborate on fullstack projects
 - 🤔 I’m looking for help with typescript
 - 💬 Ask me about Javascript, React, ReduxToolkit, Node and Express
