@@ -1,9 +1,9 @@
-### Hi there 👋 I'm William, Ive been coding since 2011 but I'm currently more interested in Web dev
+### Hi there 👋 I'm William, I've been coding since 2011 but I'm currently more interested in Web dev
 
 - 🔭 I’m currently working on improving my fullstack skills
-- 🌱 I’m currently learning full-stack development with https://fullstackopen.com/en/about and https://appacademy.io/course/app-academy-open
+- 🌱 I’m currently learning full-stack development with Java SpringBoot
 - 👯 I’m looking to collaborate on fullstack projects
-- 🤔 I’m looking for help with typescript
+- 🤔 I’m looking for help with typescript, SpringBoot
 - 💬 Ask me about Javascript, React, ReduxToolkit, Node and Express
 - 📫 How to reach me: Dm in twitter @wifelicianorios
 - 😄 Pronouns: He/Him
