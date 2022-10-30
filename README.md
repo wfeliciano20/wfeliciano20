@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on fullstack projects
 - 🤔 I’m looking for help with typescript, SpringBoot
 - 💬 Ask me about Javascript, React, ReduxToolkit, Node and Express
-- 📫 How to reach me: Dm in twitter @wifelicianorios
+- 📫 How to reach me: Dm in twitter @wknowledgeprog
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy helping people learn and tackle development. Also enjoy playing games. 
 
